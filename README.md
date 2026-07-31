@@ -1,1 +1,1 @@
-# portfolio CMS
+# portfolio CMS implementation plan
